@@ -40,7 +40,7 @@ class Devine(Client):
                 await self.send_message(
                     chat_id="@igrischatsupport",
                     text=(
-                        f"<b>{self.mention} ɪs ᴀʟɪᴠᴇ <a href='https://files.catbox.moe/cxcr3n.mp4' target='_blank'>💥</a></b>\n\n"
+                        f"<b>{self.mention} ɪs ᴀʟɪᴠᴇ <a href='https://files.catbox.moe/cxcr3n.mp4' target='_blank'>🍃</a></b>\n\n"
                         f"<b>• ʙᴏᴛ ᴠᴇʀsɪᴏɴ :</b> <code>𝟸.𝟷 ʀx</code>\n"
                         f"<b>• ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :</b> <code>𝟹.𝟷𝟶.𝟷𝟷</code>\n"
                         f"<b>• ᴘʏᴛʜᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :</b> <code>𝟸.𝟶.𝟷𝟶𝟼</code>"
