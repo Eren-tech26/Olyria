@@ -9,17 +9,17 @@ API_ID = 21968859
 
 API_HASH = "21a59d21687f01d448530ee88a26b1eb"
 
-BOT_TOKEN = "7868038722:AAElR_W6CNvUa0osi6mfCZiBknC3qlQ0EKc"
+BOT_TOKEN = "7517183434:AAFozDTblwsn24CJfXUkUh9DwnhyIi06f3U"
 
-BOT_ID = 7868038722
+BOT_ID = 7517183434
 
-BOT_USERNAME = "@ShinobuTunesbot"
+BOT_USERNAME = "@Olyria_musicbot"
 
 OWNER_USERNAME = "@eren_aethonix"
 
-BOT_NAME = "Sʜɪɴᴏʙᴜ Tᴜɴᴇs 🌷"
+BOT_NAME = "𝐎𝐥𝐲𝐫𝐢𝐚 ꭙ 𝐌ᴜsɪᴄ"
 
-ASSUSERNAME = "@Shinuassistant"
+ASSUSERNAME = "@Olyria_assist"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
